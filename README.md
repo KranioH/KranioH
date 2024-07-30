@@ -1,13 +1,17 @@
 ## Prazer, me chamo Fernando!
 
 Estudante de Desenvolvimento de Sistemas.
+<br>
+<br>
 
     💻 Frond-End Developer
 
     📚 Atualemente estudando React 
 
    <!--❤️ Adoro construir, da imagem, à programações.-->
-
+   
+<br>
+<br>
 Atualmente buscando oportunidades como desenvolvedor front-end para aplicar minhas habilidades e continuar evoluindo na área de desenvolvimento de software.
 
 ##
