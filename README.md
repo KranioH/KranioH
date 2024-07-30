@@ -16,7 +16,7 @@ Atualmente buscando oportunidades como desenvolvedor front-end para aplicar minh
 
 ##
 
-Conhecimentos atuais:
+### Conhecimentos atuais:
 
 <div style="display: inline_block;"><br>
     <img align="center" alt="KranioH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,7 +41,7 @@ Designs:
 
 ##
 
-### Contado
+### Contado:
 
 <div>
     <a href="https://www.linkedin.com/in/slvfernando/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -51,14 +51,16 @@ Designs:
 </div>
 
 ##
-Status não tão relevantes
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KranioH&show_icons=true&theme=merko)
-
+### Status:
+<div style="display: inline-flex;">
+<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=KranioH&show_icons=true&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117">
+<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KranioH&show_icons=true&theme=merko)
+-->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"> -->
+
 
 <!--
 # Adicionar texto ao Linkedin:
