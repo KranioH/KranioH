@@ -52,15 +52,13 @@ Designs:
 
 ##
 Status não tão relevantes
-<div style="display: inline-flex;>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KranioH&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH&hide_progress=true)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"> -->
-
-</div>
 
 <!--
 # Adicionar texto ao Linkedin:
