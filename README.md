@@ -50,13 +50,10 @@ Designs:
      <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
 </div>
 
+<!--
 ##
 ### Status:
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH)](https://github.com/KranioH/github-readme-stats)
-
-
-<!--
 # Adicionar texto ao Linkedin:
 
     "Sou Fernando Silva, estudante de Desenvolvimento de Sistemas. Possuo experiência em Front-End com JavaScript.
