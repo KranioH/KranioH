@@ -52,15 +52,10 @@ Designs:
 
 ##
 ### Status:
-<div style="display: inline-flex;">
-<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=KranioH&show_icons=true&theme=merko">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117">
-<!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KranioH&show_icons=true&theme=merko)
--->
-
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH)](https://github.com/KranioH/github-readme-stats)
+
+
 <!--
 # Adicionar texto ao Linkedin:
 
