@@ -6,7 +6,7 @@ Estudante de Desenvolvimento de Sistemas.
 
     💻 Frond-End Developer
 
-    📚 Atualemente estudando React 
+    📚 Estudando React 
 
    <!--❤️ Adoro construir, da imagem, à programações.-->
    
