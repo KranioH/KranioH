@@ -60,8 +60,7 @@ Designs:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KranioH&show_icons=true&theme=merko)
 -->
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KranioH)](https://github.com/KranioH/github-readme-stats)
 <!--
 # Adicionar texto ao Linkedin:
 
