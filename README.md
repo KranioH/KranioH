@@ -1,6 +1,6 @@
 ## Prazer, me chamo Fernando!
 
-Desenvolvimento de Sistemas.
+Estudando de Desenvolvimento de Sistemas.
 <br>
 <br>
 
