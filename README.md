@@ -4,7 +4,7 @@ Desenvolvimento de Sistemas.
 <br>
 <br>
 
-    💻 Frond-End Developer
+    💻 Desenvolvedor Frond-End
 
     📚 Estudando React 
 
