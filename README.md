@@ -16,7 +16,7 @@ Atualmente buscando oportunidades como desenvolvedor front-end para aplicar minh
 
 ##
 
-### Conhecimentos atuais:
+### Conhecimentos:
 
 <div style="display: inline_block;"><br>
     <img align="center" alt="KranioH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,6 +27,12 @@ Atualmente buscando oportunidades como desenvolvedor front-end para aplicar minh
     <!-- <img align="center" alt="KranioH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="center" alt="KranioH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="KranioH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> -->
+</div>
+
+### Ferramentas: 
+<div>
+    <img align="center" alt="KranioH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" alt="KranioH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
 
 <!--
