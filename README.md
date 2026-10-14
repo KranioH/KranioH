@@ -4,7 +4,7 @@ Estudando de Desenvolvimento de Sistemas.
 <br>
 <br>
 
-    💻 Desenvolvedor Frond-End
+    💻 Desenvolvedor Front-End
 
     📚 Estudando React 
 
