@@ -1,6 +1,6 @@
 ## Prazer, me chamo Fernando!
 
-Estudando de Desenvolvimento de Sistemas.
+Estudante de Desenvolvimento de Sistemas.
 <br>
 <br>
 
@@ -12,7 +12,7 @@ Estudando de Desenvolvimento de Sistemas.
    
 <br>
 <br>
-Atualmente buscando oportunidades como desenvolvedor front-end para aplicar minhas habilidades e continuar evoluindo na área de desenvolvimento de software.
+Atualmente buscando oportunidades como desenvolvedor front-end para aplicar minhas habilidades e continuar evoluindo na área de desenvolvimento de Sistemas.
 
 ##
 
